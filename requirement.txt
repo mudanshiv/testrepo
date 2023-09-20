@@ -3,7 +3,7 @@ flask==2.3.3
 waitress==2.1.2
 jupyterlab==4.0.6
 safety==2.3.5
-detect-seecrets==1.4.0
+detect-secrets==1.4.0
 presidio-analyzer==2.2.33
 whispers==2.1.5
 GitPython==3.1.36
